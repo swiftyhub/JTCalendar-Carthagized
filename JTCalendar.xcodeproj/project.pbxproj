@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		EB4AE4CA1BD43DA900132A0E /* JTCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4C91BD43DA900132A0E /* JTCalendar.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EB4AE4DB1BD43DE600132A0E /* JTCalendarDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D11BD43DE600132A0E /* JTCalendarDelegate.h */; settings = {ASSET_TAGS = (); }; };
-		EB4AE4DC1BD43DE600132A0E /* JTCalendarManager.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D21BD43DE600132A0E /* JTCalendarManager.h */; settings = {ASSET_TAGS = (); }; };
+		EB4AE4DB1BD43DE600132A0E /* JTCalendarDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D11BD43DE600132A0E /* JTCalendarDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EB4AE4DC1BD43DE600132A0E /* JTCalendarManager.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D21BD43DE600132A0E /* JTCalendarManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB4AE4DD1BD43DE600132A0E /* JTCalendarManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4AE4D31BD43DE600132A0E /* JTCalendarManager.m */; settings = {ASSET_TAGS = (); }; };
-		EB4AE4DE1BD43DE600132A0E /* JTCalendarSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D41BD43DE600132A0E /* JTCalendarSettings.h */; settings = {ASSET_TAGS = (); }; };
+		EB4AE4DE1BD43DE600132A0E /* JTCalendarSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D41BD43DE600132A0E /* JTCalendarSettings.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB4AE4DF1BD43DE600132A0E /* JTCalendarSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4AE4D51BD43DE600132A0E /* JTCalendarSettings.m */; settings = {ASSET_TAGS = (); }; };
-		EB4AE4E01BD43DE600132A0E /* JTDateHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D61BD43DE600132A0E /* JTDateHelper.h */; settings = {ASSET_TAGS = (); }; };
+		EB4AE4E01BD43DE600132A0E /* JTDateHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4D61BD43DE600132A0E /* JTDateHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB4AE4E51BD43ED300132A0E /* JTDateHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4AE4D71BD43DE600132A0E /* JTDateHelper.m */; settings = {ASSET_TAGS = (); }; };
 		EB4AE4EA1BD43F0400132A0E /* JTCalendarDelegateManager.h in Headers */ = {isa = PBXBuildFile; fileRef = EB4AE4E61BD43F0400132A0E /* JTCalendarDelegateManager.h */; settings = {ASSET_TAGS = (); }; };
 		EB4AE4EB1BD43F0400132A0E /* JTCalendarDelegateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4AE4E71BD43F0400132A0E /* JTCalendarDelegateManager.m */; settings = {ASSET_TAGS = (); }; };
@@ -423,6 +423,7 @@
 				EB4AE4D01BD43DA900132A0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
